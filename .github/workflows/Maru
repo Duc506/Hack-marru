@@ -1,0 +1,20 @@
+hack maru all map 
+
+
+getgenv().Key = "MARU-Y401Q-FJ9XV-WZ80-9C4N5-BXXJ"
+
+getgenv().id = "777091337971302410"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/main/Mobile.lua"))()
+
+kaitun 
+
+
+getgenv().Key = "MARU-Y401Q-FJ9XV-WZ80-9C4N5-BXXJ"
+
+getgenv().id = "777091337971302410"
+
+getgenv().Script_Mode = "Kaitun_Script"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/main/Mobile.lua"))()
+
